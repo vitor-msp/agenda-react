@@ -37,10 +37,6 @@ export default function App() {
     return () => {};
   }, [mesAtual]);
 
-  // useEffect(() => {
-  //   return () => {};
-  // }, [filtrados]);
-
   const alteraTarefa = (tarefa) => {
     tarefa.done = !tarefa.done;
     setEstadoTarefa(!estadoTarefa);

@@ -2338,14 +2338,13 @@
       "done": false
     },
     {
-      "id": "1159c6d4-76d2-4b39-b14e-1e9f54bedefc",
       "day": 3,
       "month": 4,
       "year": 2020,
-      "period": "2020-04",
       "date": "2020-04-03",
       "description": "Nadar",
-      "done": true
+      "done": false,
+      "id": "1159c6d4-76d2-4b39-b14e-1e9f54bedefc"
     },
     {
       "id": "115f182e-adf5-4e18-89a3-e73facaca78c",
@@ -15415,14 +15414,13 @@
       "done": true
     },
     {
-      "id": "769834e3-b4fd-43cb-97e7-5320c467411e",
       "day": 2,
       "month": 6,
       "year": 2019,
-      "period": "2019-06",
       "date": "2019-06-02",
       "description": "Pagar conta de internet",
-      "done": false
+      "done": true,
+      "id": "769834e3-b4fd-43cb-97e7-5320c467411e"
     },
     {
       "id": "7698d146-9e9e-413b-a519-ed92e37ec668",
@@ -18123,14 +18121,13 @@
       "done": true
     },
     {
-      "id": "89826077-b20f-44b0-bccb-9e3da92aaa5c",
       "day": 1,
       "month": 7,
       "year": 2020,
-      "period": "2020-07",
       "date": "2020-07-01",
       "description": "Ir ao dentista",
-      "done": true
+      "done": true,
+      "id": "89826077-b20f-44b0-bccb-9e3da92aaa5c"
     },
     {
       "id": "89a2fd78-f40f-48db-8bdc-c4db94e04fa6",
@@ -25265,7 +25262,7 @@
       "year": 2019,
       "date": "2019-06-01",
       "description": "Pagar conta de luz",
-      "done": true,
+      "done": false,
       "id": "c1fdb810-5f53-4abd-a0b6-737c8e543bd9"
     },
     {
@@ -25484,18 +25481,17 @@
       "year": 2019,
       "date": "2019-06-02",
       "description": "Ir ao médico",
-      "done": true,
+      "done": false,
       "id": "c3afd00b-74a0-4f6d-bc2f-435685712b1f"
     },
     {
-      "id": "c3c31e6b-c4ba-4700-accc-abfdf3a8c9de",
       "day": 2,
       "month": 7,
       "year": 2020,
-      "period": "2020-07",
       "date": "2020-07-02",
       "description": "Meditar",
-      "done": true
+      "done": true,
+      "id": "c3c31e6b-c4ba-4700-accc-abfdf3a8c9de"
     },
     {
       "id": "c3c66334-8a69-4413-8627-e64320b0366b",
@@ -28136,14 +28132,13 @@
       "done": true
     },
     {
-      "id": "d8acb8f6-aa75-40df-91d7-ed371373a981",
       "day": 1,
       "month": 4,
       "year": 2020,
-      "period": "2020-04",
       "date": "2020-04-01",
       "description": "Pagar conta de internet",
-      "done": false
+      "done": false,
+      "id": "d8acb8f6-aa75-40df-91d7-ed371373a981"
     },
     {
       "id": "d8b83492-182d-4e8b-a75c-a436b4a0b418",
@@ -31245,14 +31240,13 @@
       "done": false
     },
     {
-      "id": "eff7ad07-0780-41c0-a00c-3d36acf45f5c",
       "day": 2,
       "month": 4,
       "year": 2020,
-      "period": "2020-04",
       "date": "2020-04-02",
       "description": "Festa",
-      "done": false
+      "done": true,
+      "id": "eff7ad07-0780-41c0-a00c-3d36acf45f5c"
     },
     {
       "id": "eff9a8df-29b8-4adb-97ab-7578ad0a0c98",
