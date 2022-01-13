@@ -1,0 +1,26 @@
+.ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  width: 100%;
+  max-width: 600px;
+}
+.li {
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 10px;
+  margin: 5px 0px;
+  width: 100%;
+  cursor: pointer;
+}
+.liDone {
+  background-color: lightgreen;
+}
+.liUndone {
+  background-color: lightcoral;
+}

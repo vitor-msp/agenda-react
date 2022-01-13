@@ -1,0 +1,14 @@
+.botaoMarcado {
+  background-color: green;
+}
+.botaoDesmarcado {
+  background-color: red;
+}
+.botao {
+  cursor: pointer;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+}
